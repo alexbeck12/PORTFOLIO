@@ -24,13 +24,14 @@ body {
 
 
 header.header img {
+    display: flex;
     width: 400px;
 }
 
 
 .wrapper {
     position: absolute;
-    left: 10%;
+    left: 5%;
     /* top: 50%; */
     /* transform: translate(-50%, -50%); */
     display: flex;
@@ -44,7 +45,7 @@ header.header img {
     display: grid;    
     grid-template-columns: 1fr 1fr 1fr;
     padding-bottom: 200px;
-    padding-top: 200px;
+    padding-top: 400px;
 
 
 }
